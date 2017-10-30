@@ -1,0 +1,10 @@
+
+import java.util.Scanner;
+public class IntArray {
+	public static void main(String[] args){
+		boolean validInput = false;
+		int arraySize = 0;
+		int tempValue = 0;		//temporary number that stores number in array permanently
+		int sum = 0, min = 0, max = 0;
+	}
+}

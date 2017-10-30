@@ -1,0 +1,8 @@
+import java.lang.Math;
+public class SquareRoot {
+	public static void main(String[] args);
+		double result = 0.0;
+		answer = Math.sqrt(9.0);
+		System.out.println(result); //print 3.0
+	}
+}

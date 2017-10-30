@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Palindrone {
+	public static void main(String[] args){
+		int userNum = 0;
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Please enter a Number:");
+		userNum = input.nextInt();
+		
+	}
+	public static boolean isPalindrome
+}

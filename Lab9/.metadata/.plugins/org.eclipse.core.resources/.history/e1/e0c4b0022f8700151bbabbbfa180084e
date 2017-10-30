@@ -1,0 +1,23 @@
+public class ArrayHelper {
+	private int[][] arr;
+	
+	ArrayHelper(int a, int b){
+		arr = new int[a][b];
+	
+	public void print2DArray(int[][] array){
+		
+	}
+	public int arraySum(int[] array){
+		
+	}
+	public double arrayAvg(int[] array){
+		
+	}
+	public int arraySum2D(int[][] array){
+		
+	}
+	public double arrayAvg2D(int[][] array){
+		
+	}
+	public int arrayMax2D
+}

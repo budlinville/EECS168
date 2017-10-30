@@ -1,0 +1,20 @@
+/* File Name: ComputeCircleArea.java
+ * Author: Bud Linville budlinville@gmail.com
+ * Assignment:   EECS-168/169 Lab 2
+ * Description:  This program the user for a radius value and then output the value for the are of a circle of that radius.
+ * Date: 9/14/15
+ */
+import java.util.Scanner;
+public class ComputeCircleArea {
+	public static void main(String[] args){
+        final double PI = 3.141592; 
+        double radius = 0.0;
+        double area = 0.0;
+        Scanner input = new Scanner(System.in);
+        
+        System.out.print("Please enter a value for the radius of a circle:");
+        radius = input.nextDouble();
+        area = PI * radius * radius;
+        System.out.println("The area for the circle of radius " + radius + " is " + area);
+	}
+}

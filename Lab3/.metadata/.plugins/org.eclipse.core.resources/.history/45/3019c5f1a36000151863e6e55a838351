@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Fibonacci {
+	Scanner input = new Scanner(System.in);
+	int fistFib = 1;
+	int secondFib = 0;
+	int thirdFib = 0;
+	int fibNums = 0;	//number of fibonacci numbers user would like to see.
+	
+	System.out.println("How many fibonacci numbers would you like to see? ");
+	fibNums = input.nextInt();
+	
+	while (int x < fibNums) {
+		
+		
+	}
+}

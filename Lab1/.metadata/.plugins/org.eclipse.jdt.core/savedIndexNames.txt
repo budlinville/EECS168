@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/home/alinvill/EECS_168/workspace/Lab1/.metadata/.plugins/org.eclipse.jdt.core
+1884860132.index
